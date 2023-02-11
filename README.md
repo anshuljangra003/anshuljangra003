@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anshul
-- 👀 I’m interested in creating new stuff.
+- 👀 I’m interested in creating new projects.
 - 🌱 I’m currently learning Web Development
-- 📫 How to reach me ...insta-@anshul_aj_69
+- 📫 How to reach me ...idk
 - gmail-anshul.jangra003@gmail.com
 
 <!---
