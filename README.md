@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Anshul
-- 👀 I’m interested in creating new projects.
-- 🌱 I’m currently learning Web Development
-- 📫 How to reach me -
+-  Hi, I’m Anshul
+-  I’m currently learning Web Development
+-  How to reach me -
 - gmail-anshul.jangra003@gmail.com
 
 <!---
